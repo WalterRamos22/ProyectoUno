@@ -1,3 +1,5 @@
+HOLA INGENIERO, ADJUNTO PANTALLASOS DE APLICATIVO, FUNCIONANDO CORRECTAMENTE
+
 ![image](https://github.com/user-attachments/assets/693655fb-c222-4270-8a83-2a2cccea6fee)
 
 ![image](https://github.com/user-attachments/assets/8761b7cc-09c4-42a2-870f-7dbe02f8fb5a)
